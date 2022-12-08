@@ -362,7 +362,7 @@ body {
     color: var(--second-title-color);
 }
 
-/*?-----------Примеры работ---------------*/
+/*?----------Примеры работ-------------*/
 
 .body-activities {
     padding-bottom: 94px;
@@ -709,7 +709,7 @@ body {
     border-bottom: 1px solid #ececec;
 }
 
-/*-----------Portfolio Button------------*/
+/*---------Portfolio Button----------*/
 
 .container-portfolio-button {
     display: flex;
